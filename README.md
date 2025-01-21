@@ -3,8 +3,12 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver problemas através da programação. Atualmente, estou trabalhando com JavaScript, HTML, CSS e Node.js, e adoro criar soluções para melhorar a experiência dos usuários.
 
-<!---
-Alan840160/Alan840160 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento web, automação e projetos colaborativos.
+
+Tecnologias que eu uso:
+JavaScript
+Node.js
+HTML/CSS
+Git & GitHub
